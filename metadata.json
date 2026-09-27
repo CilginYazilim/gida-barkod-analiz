@@ -1,0 +1,6 @@
+{
+  "name": "Gıda Barkod Analiz Uygulaması",
+  "description": "Yapay zeka destekli gıda içeriği, katkı maddesi E-kodları analizi, kişisel kara liste, kıyaslama ve diyetisyen sohbet uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
